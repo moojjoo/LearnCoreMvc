@@ -1,0 +1,11 @@
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\bin\Debug\netcoreapp2.0\LearnCoreMvc.deps.json
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\bin\Debug\netcoreapp2.0\LearnCoreMvc.runtimeconfig.json
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\bin\Debug\netcoreapp2.0\LearnCoreMvc.runtimeconfig.dev.json
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\bin\Debug\netcoreapp2.0\LearnCoreMvc.dll
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\bin\Debug\netcoreapp2.0\LearnCoreMvc.pdb
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\obj\Debug\netcoreapp2.0\LearnCoreMvc.csprojResolveAssemblyReference.cache
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\obj\Debug\netcoreapp2.0\LearnCoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\obj\Debug\netcoreapp2.0\LearnCoreMvc.AssemblyInfoInputs.cache
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\obj\Debug\netcoreapp2.0\LearnCoreMvc.AssemblyInfo.cs
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\obj\Debug\netcoreapp2.0\LearnCoreMvc.dll
+C:\Users\rdanne1\source\repos\LearnCoreMvc\LearnCoreMvc\obj\Debug\netcoreapp2.0\LearnCoreMvc.pdb
